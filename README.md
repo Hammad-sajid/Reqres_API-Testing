@@ -1,2 +1,2 @@
-# Uber_Test-Cases
-This repository contains manual  test cases for the Uber application.
+# Reqres API's
+This repository contains different Api's requests to test against real frontend.
